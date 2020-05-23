@@ -12,7 +12,7 @@ Any windows app that is a web app(web based) must be published by the owner of t
 
 In case you get any certificate errors, download the *.cer file and add the certificate to your system try installing again.
 
-# Steps to add the certificate to your system.
+# Steps to add the certificate to your system - Example.
 
 ## Step 1
 ![Step 1](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%201.PNG)
