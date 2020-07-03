@@ -37,3 +37,10 @@ In case you get any certificate errors, download the *.cer file and add the cert
 
 
 You can write to me at medhachaitanya@outlook.com
+
+
+
+This project/app is made free so that more people can use it. 
+To help me continue working on making this app better, please consider donating any amount(tiny/small/big) that you wish to. 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=karri.15%40wright.edu&currency_code=USD&source=url)
