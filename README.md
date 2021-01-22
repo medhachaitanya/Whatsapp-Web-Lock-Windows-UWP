@@ -8,7 +8,7 @@ Any windows app that is a web app(web based) must be published by the owner of t
 
 # Screenshots
 ![Screenshot-1](https://github.com/medhachaitanya/Whatsapp-Web-Lock-Windows-UWP/blob/master/Screenshot%201.PNG)
-![Screenshot-2](https://github.com/medhachaitanya/Whatsapp-Web-Lock-Windows-UWP/blob/master/Screenshot%202.png)
+![Screenshot-2](https://github.com/medhachaitanya/Whatsapp-Web-Lock-Windows-UWP/blob/master/Screenshot%202.jpg)
 
 In case you get any certificate errors, download the *.cer file and add the certificate to your system try installing again.
 
