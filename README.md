@@ -4,7 +4,7 @@ This project is a very simple application for protecting your Whatsapp - Desktop
 # Latest Windows Store App Policy: 10.1.1
 Any windows app that is a web app(web based) must be published by the owner of the related domain or website. In my case, the owner is Whatsapp(https://web.whatsapp.com). So, I cannot publish it in the store. However, I am making this app available to be downloaded via Github as this is needed by many of us including my friends.
 
-# The app is free and some of the development is still in progress.
+# The app is free and some of the work is still in progress.
 
 # Screenshots
 ![Screenshot-1](https://github.com/medhachaitanya/Whatsapp-Web-Lock-Windows-UWP/blob/master/Screenshot%201.PNG)
